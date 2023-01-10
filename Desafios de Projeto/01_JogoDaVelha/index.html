@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Jogo da Velha</title>
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+</head>
+<body>
+
+    <h2>Jogo da Velha by Anthony Freitas</h2>
+	<span class="gamer">
+        <label>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJogador: </label><label id="gamer-selected"></label>
+		
+	<span class="winner">	
+		<label>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspVencedor: </label><label id="winner-selected"></label></div>
+		<button onclick="restart()">Reiniciar</button>
+	</div>
+
+    <div>
+        <div id="1" class="square" onclick="chooseSquare(this.id)">-</div>
+        <div id="2" class="square" onclick="chooseSquare(this.id)">-</div>
+        <div id="3" class="square" onclick="chooseSquare(this.id)">-</div>
+    </div>
+
+    <div>
+        <div id="4" class="square" onclick="chooseSquare(this.id)">-</div>
+        <div id="5" class="square" onclick="chooseSquare(this.id)">-</div>
+        <div id="6" class="square" onclick="chooseSquare(this.id)">-</div>
+    </div>
+
+    <div>
+        <div id="7" class="square" onclick="chooseSquare(this.id)">-</div>
+        <div id="8" class="square" onclick="chooseSquare(this.id)">-</div>
+        <div id="9" class="square" onclick="chooseSquare(this.id)">-</div>
+    </div>
+</body>
+
+<script src="./assets/js/JogoDaVelha.js"></script>
+
+<footer>
+        <p>Projeto 01 desenvolvido no curso "Criando seu próprio jogo da velha com HTML e Javascript"<br>do Bootcamp Órbi Game Developer da <a href="https://digitalinnovation.one/" target="_blank" rel="noopener noreferrer">Digital Innovation One</a></p>
+        <p>Repositório <a href="https://github.com/sammyfreitas/DIO_Orbi_WebGamesDev" target="_blank" rel="noopener noreferrer">GitHub</a> deste projeto</p>
+        <p>&#174Todos os direitos reservados - Desenvolvido por <a href="https://sammyfreitas.github.io/portfolioSite/" target="_blank">Anthony Freitas</a> - Desenvolvedor Full-Stack
+		<br>Email para contato: <a href="mailto:tonysdefreitas@gmail.com?subject=Fale Conosco ">tonysdefreitas@gmail.com</a>
+</footer>
+</html>

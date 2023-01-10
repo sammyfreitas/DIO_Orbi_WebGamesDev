@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Roboto';
+    background-color: #a1a8ab;
+}
+
+.square {
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.gamer{
+	margin-top: 0 auto;
+    font-size: 16px;
+	margin-left: -200px;
+}
+ 
+.winner {
+	margin-top: 0 auto;
+    font-size: 16px;
+	margin-left: 180px;
+	color: "blue";
+}
+
+button {
+    margin-top: 0 auto;
+	margin-left: 300px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	text-align: center;
+    color: #FFF;
+    margin-top: 40px;
+}
+/*
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: D6EAD4;
+    color: green;
+    text-align: center;
+    font-style: oblique;
+}*/
+
+footer a {
+    text-decoration: none;
+    color: #FFF;
+}

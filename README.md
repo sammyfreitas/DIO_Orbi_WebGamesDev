@@ -42,3 +42,6 @@ O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja in
 * 05 - Desafio de projeto: Criando seu jogo no estilo Space Shooter -  Intermediário | 肋 5 hrs
 * 06 - Desafio de projeto: Recriando o famoso jogo do dinossauro sem internet -  Intermediário | 肋 1 hrs
 
+🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.  
+
+<br>Se possível:  ⭐️ Star o projeto

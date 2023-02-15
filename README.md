@@ -1,6 +1,9 @@
 # Órbi Web Games Developer
-<b> Intermediário * 肋 63 hrs</b><br>
 https://web.dio.me/track/orbi-web-game-developer
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/5a0ef2bf-8cca-4be7-b506-3945fbb8f1d4.png"/></div>
+
+       Intermediário * 肋 63 hrs
+
 <br>
 O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento de games, uma das áreas da tecnologia que mais cresce em todo o mundo. No bootcamp, você vai aprender as linguagens essenciais para dar o primeiro passo como game developer, além de praticar em projetos de games hands-on que vão direto para seu portfólio.
 
